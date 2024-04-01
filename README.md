@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Sobre Mim:
 Olá, sou o Lucas Jerhan, um apaixonado por programação e estudante entusiasta com 18 anos de idade. Estou constantemente buscando maneiras de expandir meus conhecimentos e aprimorar minhas habilidades na área de desenvolvimento de software. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas linguagens de programação, como Python, JavaScript, e Java. Estou sempre procurando novos desafios e projetos interessantes para me envolver.<br><br>Meu objetivo é crescer profissionalmente na área de tecnologia e contribuir para projetos inovadores. Estou aberto a colaborações e novas oportunidades de aprendizado, então não hesite em entrar em contato comigo se tiver algum projeto interessante em mente!
 
 
