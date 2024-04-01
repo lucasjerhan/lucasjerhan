@@ -1,57 +1,24 @@
-Olaá, me chamo Lucas Jerhan!👋
-- 🔭Atualmente estou cursando Sistemas para Internet na UNIESP.
+# 💫 About Me:
+Olá, sou o Lucas Jerhan, um apaixonado por programação e estudante entusiasta com 18 anos de idade. Estou constantemente buscando maneiras de expandir meus conhecimentos e aprimorar minhas habilidades na área de desenvolvimento de software. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas linguagens de programação, como Python, JavaScript, e Java. Estou sempre procurando novos desafios e projetos interessantes para me envolver.<br><br>Meu objetivo é crescer profissionalmente na área de tecnologia e contribuir para projetos inovadores. Estou aberto a colaborações e novas oportunidades de aprendizado, então não hesite em entrar em contato comigo se tiver algum projeto interessante em mente!
 
 
+## 🌐 Redes Sociais:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucasjerhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasjerhan) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucasjerhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasjerhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjerhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- <div>
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjerhan&show_icons=true&theme=radical)
-   
- </div>
+### 😂 Meme Dev
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-
-
-
- <div>
-
- 
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjerhan&layout=compact) 
-   
- </div>
-
-
- 
-
-
-
- 
- <div>
-   
-   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
- </div>
-
-
-
-
-
- 
- <div>
-   <div style="display: inline_block"><br>
-  
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
-         
-</div>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <div> 
